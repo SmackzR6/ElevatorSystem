@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ElevatorSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|c:\\projects\\elevatorsystem\\elevatorabs\\models\\elevatorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|solutionrelative:elevatorabs\\models\\elevatorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|c:\\projects\\elevatorsystem\\elevatorabs\\models\\elevatorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|solutionrelative:elevatorabs\\models\\elevatorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|c:\\projects\\elevatorsystem\\elevatorabs\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|solutionrelative:elevatorabs\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|c:\\projects\\elevatorsystem\\elevatorabs\\controller\\centralelevatorsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|solutionrelative:elevatorabs\\controller\\centralelevatorsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|c:\\projects\\elevatorsystem\\elevatorabs\\controller\\elevatorschedulersync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|solutionrelative:elevatorabs\\controller\\elevatorschedulersync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|c:\\projects\\elevatorsystem\\elevatorabs\\elevators\\elevatorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|solutionrelative:elevatorabs\\elevators\\elevatorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C637A3-5A35-4137-ABDE-716085AE5A6E}|ElevatorAppSync\\ElevatorAppSync.csproj|c:\\projects\\elevatorsystem\\elevatorappsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C637A3-5A35-4137-ABDE-716085AE5A6E}|ElevatorAppSync\\ElevatorAppSync.csproj|solutionrelative:elevatorappsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5100515F-28AA-4D44-ACDF-D32B9CBE153D}|service.normalelevator\\service.normalelevator.csproj|c:\\projects\\elevatorsystem\\service.normalelevator\\model\\normalelevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5100515F-28AA-4D44-ACDF-D32B9CBE153D}|service.normalelevator\\service.normalelevator.csproj|solutionrelative:service.normalelevator\\model\\normalelevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67239F6-236F-403F-9A34-54AA46DA5F65}|ElevatorSystem.Test\\ElevatorSystem.Test.csproj|c:\\projects\\elevatorsystem\\elevatorsystem.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67239F6-236F-403F-9A34-54AA46DA5F65}|ElevatorSystem.Test\\ElevatorSystem.Test.csproj|solutionrelative:elevatorsystem.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|c:\\projects\\elevatorsystem\\elevatorabs\\ielevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|solutionrelative:elevatorabs\\ielevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|c:\\projects\\elevatorsystem\\elevatorabs\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBF0CB-5F9F-48BE-A149-F93021AABB66}|ElevatorAbs\\ElevatorAbs.csproj|solutionrelative:elevatorabs\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67239F6-236F-403F-9A34-54AA46DA5F65}|ElevatorSystem.Test\\ElevatorSystem.Test.csproj|c:\\projects\\elevatorsystem\\elevatorsystem.test\\elevatorsystem.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E67239F6-236F-403F-9A34-54AA46DA5F65}|ElevatorSystem.Test\\ElevatorSystem.Test.csproj|solutionrelative:elevatorsystem.test\\elevatorsystem.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElevatorRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Models\\ElevatorRequest.cs",
+              "RelativeDocumentMoniker": "ElevatorAbs\\Models\\ElevatorRequest.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Models\\ElevatorRequest.cs",
+              "RelativeToolTip": "ElevatorAbs\\Models\\ElevatorRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:33:29.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElevatorSchedulerSync.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Controller\\ElevatorSchedulerSync.cs",
+              "RelativeDocumentMoniker": "ElevatorAbs\\Controller\\ElevatorSchedulerSync.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Controller\\ElevatorSchedulerSync.cs",
+              "RelativeToolTip": "ElevatorAbs\\Controller\\ElevatorSchedulerSync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:56:22.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CentralElevatorSync.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Controller\\CentralElevatorSync.cs",
+              "RelativeDocumentMoniker": "ElevatorAbs\\Controller\\CentralElevatorSync.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Controller\\CentralElevatorSync.cs",
+              "RelativeToolTip": "ElevatorAbs\\Controller\\CentralElevatorSync.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwE4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:41:39.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElevatorBase.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Elevators\\ElevatorBase.cs",
+              "RelativeDocumentMoniker": "ElevatorAbs\\Elevators\\ElevatorBase.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Elevators\\ElevatorBase.cs",
+              "RelativeToolTip": "ElevatorAbs\\Elevators\\ElevatorBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:36:36.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "ElevatorAbs\\Models\\Passenger.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Models\\Passenger.cs",
+              "RelativeToolTip": "ElevatorAbs\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:59:04.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElevatorStatus.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Models\\ElevatorStatus.cs",
+              "RelativeDocumentMoniker": "ElevatorAbs\\Models\\ElevatorStatus.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Models\\ElevatorStatus.cs",
+              "RelativeToolTip": "ElevatorAbs\\Models\\ElevatorStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:29:58.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Models\\Direction.cs",
+              "RelativeDocumentMoniker": "ElevatorAbs\\Models\\Direction.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\Models\\Direction.cs",
+              "RelativeToolTip": "ElevatorAbs\\Models\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:32:34.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NormalElevator.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\service.normalelevator\\Model\\NormalElevator.cs",
+              "RelativeDocumentMoniker": "service.normalelevator\\Model\\NormalElevator.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\service.normalelevator\\Model\\NormalElevator.cs",
+              "RelativeToolTip": "service.normalelevator\\Model\\NormalElevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:59:40.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAppSync\\Program.cs",
+              "RelativeDocumentMoniker": "ElevatorAppSync\\Program.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAppSync\\Program.cs",
+              "RelativeToolTip": "ElevatorAppSync\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:56:13.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorSystem.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorSystem.Test\\UnitTest1.cs",
+              "RelativeToolTip": "ElevatorSystem.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:48:14.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IElevator.cs",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\IElevator.cs",
+              "RelativeDocumentMoniker": "ElevatorAbs\\IElevator.cs",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorAbs\\IElevator.cs",
+              "RelativeToolTip": "ElevatorAbs\\IElevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:26:04.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElevatorSystem.Test.csproj",
+              "DocumentMoniker": "C:\\Projects\\ElevatorSystem\\ElevatorSystem.Test\\ElevatorSystem.Test.csproj",
+              "RelativeDocumentMoniker": "ElevatorSystem.Test\\ElevatorSystem.Test.csproj",
+              "ToolTip": "C:\\Projects\\ElevatorSystem\\ElevatorSystem.Test\\ElevatorSystem.Test.csproj",
+              "RelativeToolTip": "ElevatorSystem.Test\\ElevatorSystem.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-06T09:57:59.295Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

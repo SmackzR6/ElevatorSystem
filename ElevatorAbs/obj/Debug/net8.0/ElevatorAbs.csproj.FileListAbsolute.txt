@@ -1,0 +1,11 @@
+C:\Projects\ElevatorSystem\ElevatorAbs\bin\Debug\net8.0\ElevatorAbs.deps.json
+C:\Projects\ElevatorSystem\ElevatorAbs\bin\Debug\net8.0\ElevatorAbs.dll
+C:\Projects\ElevatorSystem\ElevatorAbs\bin\Debug\net8.0\ElevatorAbs.pdb
+C:\Projects\ElevatorSystem\ElevatorAbs\obj\Debug\net8.0\ElevatorAbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ElevatorSystem\ElevatorAbs\obj\Debug\net8.0\ElevatorAbs.AssemblyInfoInputs.cache
+C:\Projects\ElevatorSystem\ElevatorAbs\obj\Debug\net8.0\ElevatorAbs.AssemblyInfo.cs
+C:\Projects\ElevatorSystem\ElevatorAbs\obj\Debug\net8.0\ElevatorAbs.csproj.CoreCompileInputs.cache
+C:\Projects\ElevatorSystem\ElevatorAbs\obj\Debug\net8.0\ElevatorAbs.dll
+C:\Projects\ElevatorSystem\ElevatorAbs\obj\Debug\net8.0\refint\ElevatorAbs.dll
+C:\Projects\ElevatorSystem\ElevatorAbs\obj\Debug\net8.0\ElevatorAbs.pdb
+C:\Projects\ElevatorSystem\ElevatorAbs\obj\Debug\net8.0\ref\ElevatorAbs.dll

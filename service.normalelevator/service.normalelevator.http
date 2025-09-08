@@ -1,0 +1,6 @@
+@service.normalelevator_HostAddress = http://localhost:5107
+
+GET {{service.normalelevator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

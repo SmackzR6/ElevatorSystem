@@ -1,0 +1,6 @@
+@service.highspeedelevator_HostAddress = http://localhost:5205
+
+GET {{service.highspeedelevator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

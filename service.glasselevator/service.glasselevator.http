@@ -1,0 +1,6 @@
+@service.glasselevator_HostAddress = http://localhost:5109
+
+GET {{service.glasselevator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
